@@ -7,6 +7,7 @@
 .container {
   width: 430px;
   margin: 0 auto;
+  font-family: 'Mulish', sans-serif;
 }
 
 header {
@@ -37,11 +38,26 @@ input {
 }
 
 main img {
+  height: 220px;
   width: 100%;
   object-fit: cover;
+  margin-bottom: 30px;
 }
 
-.post h1 {
+.post {
+  margin-bottom: 30px;
+  width: 382px;
+  margin: 0 auto;
+}
+
+.post p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 160%;
+  margin-bottom: 30px;
+}
+
+h1 {
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -53,9 +69,12 @@ main img {
 .buttons {
   display: flex;
   gap: 10px;
+  margin-bottom: 30px;
 }
 
 .buttons button {
+  width: 40px;
+  height: 40px;
   padding: 12px;
   border: none;
   border-radius: 50%;
@@ -68,4 +87,46 @@ main img {
 .buttons button img {
   width: 16px;
   height: 16px;
+}
+
+.related {
+  width: 382px;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.related .card {
+  display: flex;
+  gap: 16px;
+}
+
+.related .card img {
+  width: 150px;
+  height: 85px;
+  border-radius: 5px;
+}
+
+.related h1 {
+  margin-bottom: 30px;
+}
+
+.related .card h2 {
+  font-size: 18px;
+}
+
+.related .card p {
+  font-size: 14px;
+  line-height: 160%;
+}
+
+footer {
+  color: #FFF;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+
+  background: #387E96;
+
+  padding: 16px;
 }
