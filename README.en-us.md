@@ -1,9 +1,9 @@
-Languages: [English](https://github.com/rodrigoribesi/explorer/blob/main/README.en-us.md)
+Languages: [Português](https://github.com/rodrigoribesi/explorer/blob/main/README.md)
 
 # 🧭 Explorer
-Formação para iniciar no mercado de programação por `ROCKETSEAT`.
+Training to start in the programming market by `ROCKETSEAT`.
 
-## 💻 Tenologias:
+## 💻 Techs:
 
 <div>
   <picture>
@@ -11,5 +11,5 @@ Formação para iniciar no mercado de programação por `ROCKETSEAT`.
   </picture>
 </div>
 
-### 🌐 Redes Sociais:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigoribesi) 
